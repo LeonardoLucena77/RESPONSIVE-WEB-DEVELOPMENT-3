@@ -35,9 +35,15 @@ Integrantes de outras turmas estão devidamente identificados com RM e turma.
 
 📊 Critérios de Avaliação
 Critério	Pontos
+
 Aderência ao protótipo da 2ª entrega	20 pts
+
 Componentização e reutilização de itens	30 pts
+
 Responsividade (Desktop, Tablet, Mobile)	20 pts
+
 Uso do GitHub e participação ativa de todos	20 pts
+
 Entrega conforme os padrões estabelecidos	10 pts
-Total	100 pts
+
+# Total	100 pts
